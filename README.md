@@ -12,4 +12,4 @@ This is a simple Python-based number guessing game. The computer randomly select
 4. Run the game with:
 
 ```bash
-python guess_number.py
+https://2db2d31c-a243-405f-9f3c-f80d8bf5650b-00-3ve9t5pgekdl4.janeway.replit.dev/
